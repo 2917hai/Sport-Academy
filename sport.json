@@ -1,0 +1,95 @@
+{
+  "sport": [
+    {
+      "Name": "Kumar",
+      "Mobile": "7803869841",
+      "Email": "sid@gmail.com",
+      "Age": "35",
+      "Address": "Bhopal",
+      "Date": "2025-01-16",
+      "City": "Bhopal",
+      "DOB": "2025-01-23",
+      "Father": "chootelal",
+      "State": "Madhya Pradesh",
+      "id": "b4b7"
+    },
+    {
+      "Name": "Umesh",
+      "Mobile": "7803869841",
+      "Email": "sid@gmail.com",
+      "Age": "55",
+      "Address": "Bhopal",
+      "Date": "2025-01-16",
+      "City": "Bhopal",
+      "DOB": "2025-01-23",
+      "Father": "chootelal",
+      "State": "Madhya Pradesh",
+      "id": "507e"
+    },
+    {
+      "Name": "Raja",
+      "Mobile": "7803869841",
+      "Email": "sid@gmail.com",
+      "Age": "35",
+      "Address": "Bhopal",
+      "Date": "2025-01-16",
+      "City": "Bhopal",
+      "DOB": "2025-01-23",
+      "Father": "chootelal",
+      "State": "Madhya Pradesh",
+      "id": "ce57"
+    },
+    {
+      "id": "d2e4",
+      "Name": "Umesh kumar Yadav",
+      "Mobile": "07803869841",
+      "Email": "yadavumeshkumar815@gmail.com",
+      "Age": "21.00",
+      "Address": "tit road balvihar anand nagar bhopal",
+      "Date": "2025-01-10",
+      "City": "Bhopal",
+      "DOB": "2025-01-11",
+      "Father": "Chhotelal yadav",
+      "State": "Madhya Pradesh"
+    },
+    {
+      "id": "87a6",
+      "Name": "Umesh kumar Yadav",
+      "Mobile": "07803869841",
+      "Email": "yadavumeshkumar815@gmail.com",
+      "Age": "",
+      "Address": "tit road balvihar anand nagar bhopal",
+      "Date": "",
+      "City": "Bhopal",
+      "DOB": "",
+      "Father": "",
+      "State": "Madhya Pradesh"
+    },
+    {
+      "id": "1ff4",
+      "Name": "",
+      "Mobile": "",
+      "Email": "",
+      "Age": "",
+      "Address": "",
+      "Date": "",
+      "City": "",
+      "DOB": "",
+      "Father": "",
+      "State": ""
+    },
+    {
+      "id": "2815",
+      "Name": "",
+      "Mobile": "",
+      "Email": "",
+      "Age": "",
+      "Address": "",
+      "Date": "",
+      "City": "",
+      "DOB": "",
+      "Father": "",
+      "State": ""
+    }
+  ]
+}

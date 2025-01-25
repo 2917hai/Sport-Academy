@@ -1,0 +1,1063 @@
+@media (max-width:480px)
+{
+    .container1
+    {
+        width: 480px;
+    }
+    .nav {
+    background-color: #fff;
+    padding: 10px 20px;
+    width: 320px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    top: 0px;
+    gap: 5px;
+    font-size: 7px;
+  
+}
+.nav .logo img
+{
+    width: 50px;
+    margin-top: 0;
+    margin-left: 0px;
+}
+.nav-links {
+    display: flex;
+    gap: 5px;
+}
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+.search-bar input {
+  display: none;
+}
+.btn, .location-btn {
+    background-color: #ff0055;
+    color: white;
+    padding: 2px 2px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 7px;
+    gap: 0;
+
+}
+
+.container1 .sidebar {
+  margin-left: -20px;
+  font-size: 10px;
+  padding: 5px;
+  width: 110px;
+  
+}
+.sidebar #uma
+{
+   display: none;
+}
+.container1{
+    width: 480px;
+    height: 1950px;
+
+}
+
+.content{
+    width: 480px;
+    
+    
+}
+.content #event {
+    width: 480px;
+    height: 100px;
+    flex-grow: 1;
+    gap: 10px;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    display: none;
+
+    
+}
+
+.event-card1 {
+   font-size: 8px;
+   width: 200px;
+}
+.event-card1 img {
+    width: 200px;
+    height: 150px;
+}
+.event-card2 {
+    font-size: 8px;
+    width: 200px;
+ }
+ .event-card2 img {
+     width: 200px;
+     height: 150px;
+ }
+ .event-card3 {
+    font-size: 8px;
+    width: 200px;
+ }
+ .event-card3 img {
+     width: 200px;
+     height: 150px;
+ }
+ .event-card4 {
+    font-size: 8px;
+    width: 200px;
+ }
+ .event-card4 img {
+     width: 200px;
+     height: 150px;
+ }
+ .event-card5 {
+    font-size: 8px;
+    width: 200px;
+ }
+ .event-card5 img {
+     width: 200px;
+     height: 150px;
+ }
+ .event-card6 {
+    font-size: 8px;
+    width: 200px;
+ }
+ .event-card6 img {
+     width: 200px;
+     height: 150px;
+ }
+ .expired {
+    top: 0px;
+}
+
+.footer {
+    width: 300px;
+    
+}
+
+
+
+
+#category
+{
+    display: flex;
+    height: 150px;
+    width: 200px;
+    background-color: rgb(225, 233, 243);
+    padding: 10px;
+    padding-left: 20px;
+    font-weight: bold;
+    gap: 10px;
+    border-radius: 20px;
+    position: absolute;
+    left: 70px;
+    font-size: 10px;
+    z-index: 10000000;
+    display: none;
+}
+
+#login .image
+{
+
+  display: none;
+}
+#login 
+{
+    display: flex;
+    height: 500px;
+    width: 300px;
+    border-radius: 30px;
+    background-color: whitesmoke;
+    position: fixed;
+    top: 60px;
+    left: 30px;
+    z-index: 999;
+    border: 2px solid black;
+    border-radius: 20px; 
+    display: none;
+}
+#login h2
+{
+  font-size: 20px;
+}
+#login p
+{
+  font-size: 15px;
+  padding-left: 20px;
+}
+#login input
+{
+  border-radius: 20px;
+  font-size: 10px;
+  padding: 5px;
+  width: 100px;
+}
+#loginButton
+{
+  background-color: blue;
+  height: 40px;
+  width: 150px;
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+  margin-top: 20px;
+  font-size: 25px;
+  margin-left: 70px;
+}
+#login #nahi
+  {
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+  #login h1{
+    text-align: center;
+  }
+  #login i
+  {
+   float: right;
+   font-size: 25px;
+   cursor: pointer;
+   margin-right: 10px;
+   margin-top: -40px;
+  }
+
+
+
+
+
+  #Register .image
+{
+
+  display: none;
+}
+#Register 
+{
+    display: flex;
+    height: 500px;
+    width: 300px;
+    border-radius: 30px;
+    background-color: whitesmoke;
+    position: fixed;
+    top: 60px;
+    left: 30px;
+    z-index: 999;
+    border: 2px solid black;
+    border-radius: 20px; 
+    display: none;
+}
+#Register h2
+{
+  font-size: 20px;
+}
+#Register p
+{
+  font-size: 15px;
+  padding-left: 20px;
+}
+#Register input
+{
+  border-radius: 20px;
+  font-size: 10px;
+  padding: 5px;
+  width: 100px;
+}
+#registerButton
+{
+  background-color: blue;
+  height: 40px;
+  width: 150px;
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+  margin-top: 20px;
+  font-size: 25px;
+  margin-left: 70px;
+}
+#Register #nahi
+  {
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+  #Register h1{
+    text-align: center;
+  }
+  #Register i
+  {
+   float: right;
+   font-size: 25px;
+   cursor: pointer;
+   margin-right: 10px;
+   margin-top: -40px;
+  }
+  .container1{
+    width: 480px;
+    height: 2150px;
+
+}
+
+
+
+
+
+
+  #academy
+  {
+     width: 100%;
+     display: grid;
+     grid-template-columns: repeat(1,1fr);
+     grid-template-rows: repeat(6,1fr);
+     gap: 20px;
+     
+  }
+  #academy .box1
+ {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 150px;
+    width:235px;
+    font-size: 12px;
+ }
+ #academy .box1 .box-header 
+ {
+    display: flex;
+    margin-left: -10px;
+ }
+ #academy .box1 .box-header img
+ {
+height: 50px;
+width: 50px;
+padding: 20px;
+ }
+
+ #academy .box1 .box-header .rating p
+ {
+  
+   width: 80px;
+ }
+ #academy .box1 .box-header .rating .rating-number
+ {
+   
+    font-size: 8px;
+ }
+ #academy .box1 .box-content {
+  
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    font-size: 8px;
+ }
+
+ #academy .box1 .box-actions
+ {
+    padding: 5px;
+ }
+ #academy .box1 .box-actions .primary
+ {
+    padding-left: 10px;
+    margin-left: 5px;
+    font-size: 8px;
+   
+ }
+ #academy .box1 .box-actions .chat
+ {
+    width: 100px;
+    margin-right: 20px;
+    padding-left: 15px;
+    width: 60px;
+    font-size: 8px;
+   
+ }
+
+
+
+
+
+ #academy .box2
+ {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 150px;
+    width:235px;
+    font-size: 12px;
+ }
+ #academy .box2 .box-header 
+ {
+    display: flex;
+    margin-left: -10px;
+ }
+ #academy .box2 .box-header img
+ {
+height: 50px;
+width: 50px;
+padding: 20px;
+ }
+
+ #academy .box2 .box-header .rating p
+ {
+  
+   width: 80px;
+ }
+ #academy .box2 .box-header .rating .rating-number
+ {
+   
+    font-size: 8px;
+ }
+ #academy .box2 .box-content {
+  
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    font-size: 8px;
+ }
+
+ #academy .box2 .box-actions
+ {
+    padding: 5px;
+ }
+ #academy .box2 .box-actions .primary
+ {
+    padding-left: 10px;
+    margin-left: 5px;
+    font-size: 8px;
+   
+ }
+ #academy .box2 .box-actions .chat
+ {
+    width: 100px;
+    margin-right: 20px;
+    padding-left: 15px;
+    width: 60px;
+    font-size: 8px;
+   
+ }
+
+
+
+
+
+
+
+ #academy .box3
+ {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 150px;
+    width:235px;
+    font-size: 12px;
+ }
+ #academy .box3 .box-header 
+ {
+    display: flex;
+    margin-left: -10px;
+ }
+ #academy .box3 .box-header img
+ {
+height: 50px;
+width: 50px;
+padding: 20px;
+ }
+
+ #academy .box3 .box-header .rating p
+ {
+  
+   width: 80px;
+ }
+ #academy .box3 .box-header .rating .rating-number
+ {
+   
+    font-size: 8px;
+ }
+ #academy .box3 .box-content {
+  
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    font-size: 8px;
+ }
+
+ #academy .box3 .box-actions
+ {
+    padding: 5px;
+ }
+ #academy .box3 .box-actions .primary
+ {
+    padding-left: 10px;
+    margin-left: 5px;
+    font-size: 8px;
+   
+ }
+ #academy .box3 .box-actions .chat
+ {
+    width: 100px;
+    margin-right: 20px;
+    padding-left: 15px;
+    width: 60px;
+    font-size: 8px;
+   
+ }
+
+
+
+
+
+
+
+ #academy .box4
+ {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 150px;
+    width:235px;
+    font-size: 12px;
+ }
+ #academy .box4 .box-header 
+ {
+    display: flex;
+    margin-left: -10px;
+ }
+ #academy .box4 .box-header img
+ {
+height: 50px;
+width: 50px;
+padding: 20px;
+ }
+
+ #academy .box4 .box-header .rating p
+ {
+  
+   width: 80px;
+ }
+ #academy .box4 .box-header .rating .rating-number
+ {
+   
+    font-size: 8px;
+ }
+ #academy .box4 .box-content {
+  
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    font-size: 8px;
+ }
+
+ #academy .box4 .box-actions
+ {
+    padding: 5px;
+ }
+ #academy .box4 .box-actions .primary
+ {
+    padding-left: 10px;
+    margin-left: 5px;
+    font-size: 8px;
+   
+ }
+ #academy .box4 .box-actions .chat
+ {
+    width: 100px;
+    margin-right: 20px;
+    padding-left: 15px;
+    width: 60px;
+    font-size: 8px;
+   
+ }
+
+
+
+
+
+
+
+ #academy .box5
+ {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 150px;
+    width:235px;
+    font-size: 12px;
+ }
+ #academy .box5 .box-header 
+ {
+    display: flex;
+    margin-left: -10px;
+ }
+ #academy .box5 .box-header img
+ {
+height: 50px;
+width: 50px;
+padding: 20px;
+ }
+
+ #academy .box5 .box-header .rating p
+ {
+  
+   width: 80px;
+ }
+ #academy .box5 .box-header .rating .rating-number
+ {
+   
+    font-size: 8px;
+ }
+ #academy .box5 .box-content {
+  
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    font-size: 8px;
+ }
+
+ #academy .box5 .box-actions
+ {
+    padding: 5px;
+ }
+ #academy .box5 .box-actions .primary
+ {
+    padding-left: 10px;
+    margin-left: 5px;
+    font-size: 8px;
+   
+ }
+ #academy .box5 .box-actions .chat
+ {
+    width: 100px;
+    margin-right: 20px;
+    padding-left: 15px;
+    width: 60px;
+    font-size: 8px;
+   
+ }
+
+
+
+
+
+
+
+ #academy .box6
+ {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 150px;
+    width:235px;
+    font-size: 12px;
+ }
+ #academy .box6 .box-header 
+ {
+    display: flex;
+    margin-left: -10px;
+ }
+ #academy .box6 .box-header img
+ {
+height: 50px;
+width: 50px;
+padding: 20px;
+ }
+
+ #academy .box6 .box-header .rating p
+ {
+  
+   width: 80px;
+ }
+ #academy .box6 .box-header .rating .rating-number
+ {
+   
+    font-size: 8px;
+ }
+ #academy .box6 .box-content {
+  
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    font-size: 8px;
+ }
+
+ #academy .box6 .box-actions
+ {
+    padding: 5px;
+ }
+ #academy .box6 .box-actions .primary
+ {
+    padding-left: 10px;
+    margin-left: 5px;
+    font-size: 8px;
+   
+ }
+ #academy .box6 .box-actions .chat
+ {
+    width: 100px;
+    margin-right: 20px;
+    padding-left: 15px;
+    width: 60px;
+    font-size: 8px;
+   
+ }
+
+
+
+
+
+
+
+ #academy .box7
+ {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 150px;
+    width:235px;
+    font-size: 12px;
+ }
+ #academy .box7 .box-header 
+ {
+    display: flex;
+    margin-left: -10px;
+ }
+ #academy .box7 .box-header img
+ {
+height: 50px;
+width: 50px;
+padding: 20px;
+ }
+
+ #academy .box7 .box-header .rating p
+ {
+  
+   width: 80px;
+ }
+ #academy .box7 .box-header .rating .rating-number
+ {
+   
+    font-size: 8px;
+ }
+ #academy .box7 .box-content {
+  
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    font-size: 8px;
+ }
+
+ #academy .box7 .box-actions
+ {
+    padding: 5px;
+ }
+ #academy .box7 .box-actions .primary
+ {
+    padding-left: 10px;
+    margin-left: 5px;
+    font-size: 8px;
+   
+ }
+ #academy .box7 .box-actions .chat
+ {
+    width: 100px;
+    margin-right: 20px;
+    padding-left: 15px;
+    width: 60px;
+    font-size: 8px;
+   
+ }
+
+
+
+
+
+
+
+ #academy .box8
+ {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 150px;
+    width:235px;
+    font-size: 12px;
+ }
+ #academy .box8 .box-header 
+ {
+    display: flex;
+    margin-left: -10px;
+ }
+ #academy .box8 .box-header img
+ {
+height: 50px;
+width: 50px;
+padding: 20px;
+ }
+
+ #academy .box8 .box-header .rating p
+ {
+  
+   width: 80px;
+ }
+ #academy .box8 .box-header .rating .rating-number
+ {
+   
+    font-size: 8px;
+ }
+ #academy .box8 .box-content {
+  
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    font-size: 8px;
+ }
+
+ #academy .box8 .box-actions
+ {
+    padding: 5px;
+ }
+ #academy .box8 .box-actions .primary
+ {
+    padding-left: 10px;
+    margin-left: 5px;
+    font-size: 8px;
+   
+ }
+ #academy .box8 .box-actions .chat
+ {
+    width: 100px;
+    margin-right: 20px;
+    padding-left: 15px;
+    width: 60px;
+    font-size: 8px;
+   
+ }
+
+
+
+ #freetrial
+{
+    height: 1280px;
+    width: 480px;
+}
+#freetrial .photo img{
+    height: 80px;
+    width: 100px;
+    border-radius: 20px;
+}
+#freetrial .second .rating .box1 #snd
+{
+    display: flex;
+    gap: 5px;
+  margin-left: 0px;
+  margin-right: 170px
+}
+#freetrial .second .rating .box1 #snd .bookthis
+{
+    font-size: 6px;
+  height: 10px;
+  width: 50px;
+  padding: 4px 5px;
+ margin-top: 60px;
+
+
+}
+#freetrial .second .rating .box1 #snd .show
+{
+    font-size: 6px;
+    height: 10px;
+    width: 50px;
+    padding: 4px 5px;
+   margin-top: 60px;
+}
+#freetrial .second .rating .box1 #snd .chat{
+
+    font-size: 6px;
+    height: 10px;
+    width: 55px;
+    padding: 4px 5px;
+   margin-top: 60px;
+}
+#freetrial .second .rating .box2
+{
+    
+    border-radius: 20px;
+    font-size: 8px;
+    width: 350px;
+}
+#freetrial .second .rating .box2 .two
+{
+    margin-right: 10px;
+    
+}
+#freetrial .second .rating .box2 .two i
+{
+    font-size: 10px;
+}
+
+#freetrial .second .rating .box3
+{
+    width: 470px;
+    height: 550px;
+    margin-top: 50px;
+    font-size: 10px;
+    
+
+}
+#freetrial .second .rating .box3 .box31 nav
+{
+    margin-right: 0px;
+    font-size: 10px;
+    margin-left: 0px;
+    justify-content: center;
+    margin-left: -50px;
+  
+
+}
+#freetrial .second .rating .box3 .box31 #overview table 
+{
+  width: 340px;
+  margin-left: 5px;
+  margin-right: 0px;
+  font-size: 8px;
+}
+#freetrial .second .rating .box3 .box31 #overview .ama
+{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    margin-left: 5px;
+    font-size: 7px;
+}
+
+#freetrial .second .rating .box3 .box32
+{
+    height: 300px;
+    width: 75%;
+  margin-top: 50px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+#chooseTrial
+{
+    width: 480px;
+    height: 700px;
+    display: none;
+    
+}
+#chooseTrial .choose
+{
+    width: 350px;
+    height: 500px;
+    font-size: 10px;
+    margin-left: 0px;
+}
+#chooseTrial .choose nav
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    height: 30px;
+    font-size: 10px;
+    font-weight: bold;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+#chooseTrial .choose .date input
+{
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+    margin-left: 40px;
+    font-size: 20px;
+}
+#chooseTrial .choose .categorys select
+{
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+    margin-left: 40px;
+    font-size: 20px;
+}
+#chooseTrial .choose .slot select
+{
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+    margin-left: 0px;
+    font-size: 20px;
+}
+
+#bookingform
+{
+  height: 600px;
+  width: 340px;
+  font-size: 10px;
+  margin-left: 10px;
+}
+#bookingform form h1
+{
+  font-size: 20px;
+
+}
+#bookingform form .data h4
+{
+ 
+  font-size: 8px;
+  margin-left: 10px;
+}
+#bookingform form .data input
+{
+  border-radius: 20px;
+  font-size: 10px;
+  width: 300px;
+  margin-left: 10px;
+  height: 30px;
+  padding-left: 10px;
+  border: none;
+  background-color: transparent;
+  
+}
+#bookingform form .data  #submit
+{
+    margin-left: 20px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
