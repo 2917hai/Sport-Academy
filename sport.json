@@ -66,7 +66,20 @@
       "State": "Madhya Pradesh"
     },
     {
-      "id": "1ff4",
+      "Name": "Sumit mdrchod",
+      "Mobile": "63646465654",
+      "Email": "yadavumeshkumar815@gmail.com",
+      "Age": "50",
+      "Address": "tit road balvihar anand nagar bhopal",
+      "Date": "2025-01-22",
+      "City": "Bhopal",
+      "DOB": "2025-01-23",
+      "Father": "Umesh",
+      "State": "Madhya Pradesh",
+      "id": "b27c"
+    },
+    {
+      "id": "1b91",
       "Name": "",
       "Mobile": "",
       "Email": "",
@@ -79,17 +92,17 @@
       "State": ""
     },
     {
-      "id": "2815",
-      "Name": "",
-      "Mobile": "",
-      "Email": "",
-      "Age": "",
-      "Address": "",
-      "Date": "",
-      "City": "",
-      "DOB": "",
-      "Father": "",
-      "State": ""
+      "id": "1a07",
+      "Name": "Vinayak Gupta ",
+      "Mobile": "7880267761",
+      "Email": "raja123@gmail.com",
+      "Age": "22",
+      "Address": "Amiriti sidhi Madhya pradesh",
+      "Date": "2025-01-27",
+      "City": "Sidhi",
+      "DOB": "2003-05-19",
+      "Father": "Umesh kumar yadav",
+      "State": "Madhya Pradesh"
     }
   ]
 }

@@ -285,7 +285,7 @@ body {
     border-radius: 20px;
     position: absolute;
     left: 700px;
-    z-index: 100000;
+    z-index: 1000000000;
     display: none;
 }
 #category p
