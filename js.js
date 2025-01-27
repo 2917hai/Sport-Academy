@@ -91,8 +91,9 @@ let RegisterKaro=()=>
     }
     let login=document.querySelector("#login");
       let reg=document.querySelector("#Register");
-      login.style.display="block";
       reg.style.display="none";
+      login.style.display="block";
+      login.style.display="flex ";
       
     
       
@@ -143,11 +144,12 @@ let RegisterKaro=()=>
   
         let login=()=>
             {
-              let login=document.querySelector("#login");
+              let log=document.querySelector("#login");
               let reg=document.querySelector("#Register");
               reg.style.display="none";
-               login.style.display="block"
-               login.style.display="flex";
+              log.style.display="block";
+              log.style.display="flex";
+              
             
             }
             let register=()=>
